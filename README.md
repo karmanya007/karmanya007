@@ -64,3 +64,9 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
+
+<details open>
+  <summary>:zap: <b>Additional Stats</b></summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
