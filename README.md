@@ -1,5 +1,6 @@
-### Hey there 👋, Karmanya Veer Sharma aka karmanya007
+### Hey there 👋,I'm Karmanya Veer Sharma
 
+<!-- Banner goes here -->
 
 ## About me
 
@@ -58,4 +59,8 @@
   </p>
 </details>
 
+<details open>
+  <summary>:zap: <b>Reacent Activity</b></summary>
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
