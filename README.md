@@ -62,6 +62,7 @@
 <details open>
   <summary>:zap: <b>Reacent Activity</b></summary>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//karmanya007/forkify/pull/1) in [karmanya007/forkify](https://github.com//karmanya007/forkify)
 <!--END_SECTION:activity-->
 </details>
 
