@@ -68,5 +68,76 @@
 <details open>
   <summary>:zap: <b>Additional Stats</b></summary>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 85 Contributions in the Year 2020
+ > 
+> 📦 19.8 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
+🌆 Daytime    17 commits     ██████░░░░░░░░░░░░░░░░░░░   24.64% 
+🌃 Evening    51 commits     ██████████████████░░░░░░░   73.91% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       16 commits     █████░░░░░░░░░░░░░░░░░░░░   23.19% 
+Tuesday      8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
+Wednesday    7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Thursday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.25% 
+Friday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+Saturday     13 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
+Sunday       14 commits     █████░░░░░░░░░░░░░░░░░░░░   20.29%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ████████████████░░░░░░░░░   66.67% 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+C                        1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/karmanya007/karmanya007/blob/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
 </details>
