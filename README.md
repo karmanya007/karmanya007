@@ -148,3 +148,46 @@ HTML                     1 repos             ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details>
+
+<details open>
+<summary>🤝 <b>Connect with me</b></summary>
+
+### Social media
+
+<p align = "center">
+
+<a href="https://twitter.com/karmanyasharma5">
+  <img align="center" alt="@karmanyasharma5" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.linkedin.com/in/karmanya-sharma-9a95381a7/">
+  <img align="center" alt="karmanya's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://www.facebook.com/karmanya.sharma.94/">
+  <img align="center" alt="karmanya's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+</a>
+<a href="https://www.instagram.com/karmanyasharma5/">
+  <img align="center" alt="karmanya's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a><br /> <br />
+
+</p>
+
+### CP profiles
+
+<p align = "center>
+
+<a href="https://auth.geeksforgeeks.org/user/karmanyasharma5/profile" title='geeksforgeeks'>
+    <img align="center" alt="Keshav's geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/geeksforgeeks.svg" />
+</a>
+<a href="https://www.codechef.com/users/karmanya007" title='Codechef'>
+    <img align="center" alt="karmanya's Codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://codeforces.com/profile/karmanyasharma5" title='Codeforces'>
+    <img align="center" alt="karmanya's Codeforces" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+<a href="https://www.spoj.com/users/karmanya007/" title='SPOJ'>
+    <img align="center" alt="karmanya's SPOJ" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stripe.svg" />
+</a>
+
+</p>
+
+</details>
