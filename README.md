@@ -73,10 +73,7 @@
 
 <details open>
   <summary>:zap: <b>Additional Stats</b></summary>
-<<<<<<< HEAD
 <!--START_SECTION:waka-->
-=======
-  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44523%20lines%20of%20code-blue)
@@ -148,6 +145,5 @@ HTML                     1 repos             ██░░░░░░░░░�
 ![Chart not found](https://github.com/karmanya007/karmanya007/blob/master/charts/bar_graph.png) 
 
 
->>>>>>> 7092b2845b606a909490dd48dcb4e998e4cf353b
 <!--END_SECTION:waka-->
 </details>
