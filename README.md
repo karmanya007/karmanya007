@@ -1,6 +1,6 @@
+![GitHub followers](https://img.shields.io/github/followers/karmanya007?label=Follow&style=social)
 [![Actions Status](https://github.com/karmanya007/karmanya007/workflows/Waka%20Readme/badge.svg)](https://github.com/karmanya007/karmanya007/actions)
 [![Actions Status](https://github.com/karmanya007/karmanya007/workflows/Update%20README/badge.svg)](https://github.com/karmanya007/karmanya007/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=karmanya007.karmanya007)
 
 
 ### Hey there 👋,I'm Karmanya Veer Sharma
@@ -74,6 +74,7 @@
 <details open>
   <summary>:zap: <b>Additional Stats</b></summary>
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44523%20lines%20of%20code-blue)
