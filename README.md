@@ -152,7 +152,7 @@ HTML                     1 repos             ██░░░░░░░░░�
 <details open>
 <summary>🤝 <b>Connect with me</b></summary>
 
-### Social media
+<h2 align = "center">Social media</h2>
 
 <p align = "center">
 
@@ -171,7 +171,7 @@ HTML                     1 repos             ██░░░░░░░░░�
 
 </p>
 
-### CP profiles
+<h2 align = "center"> CP profiles </h2>
 
 <p align = "center">
 
