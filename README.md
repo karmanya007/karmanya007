@@ -1,3 +1,8 @@
+[![Actions Status](https://github.com/karmanya007/karmanya007/workflows/Waka%20Readme/badge.svg)](https://github.com/karmanya007/karmanya007/actions)
+[![Actions Status](https://github.com/karmanya007/karmanya007/workflows/Update%20README/badge.svg)](https://github.com/karmanya007/karmanya007/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=karmanya007.karmanya007)
+
+
 ### Hey there 👋,I'm Karmanya Veer Sharma
 
 <!-- Banner goes here -->
@@ -67,6 +72,6 @@
 
 <details open>
   <summary>:zap: <b>Additional Stats</b></summary>
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
