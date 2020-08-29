@@ -67,7 +67,7 @@
 <details open>
   <summary>:zap: <b>Reacent Activity</b></summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3505](https://github.com//simple-icons/simple-icons/issues/3505) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+1. 💪 Opened PR [#285](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/285) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 </details>
 
