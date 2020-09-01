@@ -68,7 +68,7 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com//karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com//karmanya007/social-share-buttons)
-<!--END_SECTION:activity-->
+
 </details>
 
 <details open>
