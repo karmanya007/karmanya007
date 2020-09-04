@@ -157,7 +157,6 @@ HTML                     1 repos             ██░░░░░░░░░�
 
 ![Chart not found](https://github.com/karmanya007/karmanya007/blob/master/charts/bar_graph.png) 
 
-
 <!--END_SECTION:waka-->
 </details>
 
