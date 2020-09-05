@@ -3,7 +3,7 @@
 [![Actions Status](https://github.com/karmanya007/karmanya007/workflows/Update%20README/badge.svg)](https://github.com/karmanya007/karmanya007/actions)
 
 
-### Hey there 👋,I'm Karmanya Veer Sharma
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I'm Karmanya Veer Sharma
 
 <!-- Banner goes here -->
 
@@ -31,6 +31,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
+[![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)](https://jquery.com/)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
@@ -38,6 +39,9 @@
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)](https://prettier.io/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Postman](https://img.shields.io/badge/-Postman-EF5B25?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+[![ExpressJs](https://img.shields.io/badge/-ExpressJs-f5e042?style=flat-square&logo=expressJs&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ## Operating System & Tools
 
@@ -68,13 +72,11 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-  
 1. 🎉 Merged PR [#2](https://github.com//karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com//karmanya007/social-share-buttons)
 2. 💪 Opened PR [#2](https://github.com//karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com//karmanya007/social-share-buttons)
 3. 🎉 Merged PR [#1](https://github.com//karmanya007/social-share-buttons/pull/1) in [karmanya007/social-share-buttons](https://github.com//karmanya007/social-share-buttons)
 4. 💪 Opened PR [#1](https://github.com//karmanya007/social-share-buttons/pull/1) in [karmanya007/social-share-buttons](https://github.com//karmanya007/social-share-buttons)
 5. 💪 Opened PR [#285](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/285) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-
 <!--END_SECTION:activity-->
 
 </details>
