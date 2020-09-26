@@ -72,11 +72,11 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com//karmanya007/social-share-buttons)
-2. 💪 Opened PR [#2](https://github.com//karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com//karmanya007/social-share-buttons)
-3. 🎉 Merged PR [#1](https://github.com//karmanya007/social-share-buttons/pull/1) in [karmanya007/social-share-buttons](https://github.com//karmanya007/social-share-buttons)
-4. 💪 Opened PR [#1](https://github.com//karmanya007/social-share-buttons/pull/1) in [karmanya007/social-share-buttons](https://github.com//karmanya007/social-share-buttons)
-5. 💪 Opened PR [#285](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/285) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+1. 🎉 Merged PR [#2](https://github.com/karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
+2. 💪 Opened PR [#2](https://github.com/karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
+3. 🎉 Merged PR [#1](https://github.com/karmanya007/social-share-buttons/pull/1) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
+4. 💪 Opened PR [#1](https://github.com/karmanya007/social-share-buttons/pull/1) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
+5. 💪 Opened PR [#285](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/285) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 </details>
