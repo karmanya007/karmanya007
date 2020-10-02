@@ -69,15 +69,10 @@
 </details>
 
 <details open>
-<summary>:zap: <b>Reacent Activity</b></summary>
+  <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
-2. 💪 Opened PR [#2](https://github.com/karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
-3. 🎉 Merged PR [#1](https://github.com/karmanya007/social-share-buttons/pull/1) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
-4. 💪 Opened PR [#1](https://github.com/karmanya007/social-share-buttons/pull/1) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
-5. 💪 Opened PR [#285](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/285) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-<!--END_SECTION:activity-->
+
 
 </details>
 
@@ -85,7 +80,7 @@
   <summary>:zap: <b>Additional Stats</b></summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-211-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-276869%20lines%20of%20code-blue)
 
