@@ -69,7 +69,7 @@
 </details>
 
 <details open>
-  <summary>:zap: <b>Reacent Activity</b></summary>
+<summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
@@ -85,7 +85,8 @@
   <summary>:zap: <b>Additional Stats</b></summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-211-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-258582%20lines%20of%20code-blue)
 
@@ -161,6 +162,7 @@ HTML                     1 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
 </details>
 
 <details open>
