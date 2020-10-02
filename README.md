@@ -72,6 +72,11 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
+2. 💪 Opened PR [#2](https://github.com/karmanya007/social-share-buttons/pull/2) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
+3. 🎉 Merged PR [#1](https://github.com/karmanya007/social-share-buttons/pull/1) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
+4. 💪 Opened PR [#1](https://github.com/karmanya007/social-share-buttons/pull/1) in [karmanya007/social-share-buttons](https://github.com/karmanya007/social-share-buttons)
+<!--END_SECTION:activity-->
 
 
 </details>
