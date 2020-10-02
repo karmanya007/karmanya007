@@ -15,7 +15,7 @@
   - 🐧 Operating system
   - 🤖 AI/ML/Deep Learning
   - 🐱‍💻 Penetration Testing
-- 🔭 I’m currently working on Social share button extension
+- 🔭 I’m currently working on [url shortner](https://github.com/karmanya007/url-shortener)
 - 🌱 I’m currently learning Javascript, C++ and Python
 - 💬 Ask me about anything
 - 📫 How to reach me: <karmanyasharma5@gmail.com>
