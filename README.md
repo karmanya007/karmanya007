@@ -64,7 +64,7 @@
   <summary>:zap: <b>Featured Repos</b></summary>
   <br>
   <p align = "center">
-    <a href = "https://github.com/karmanya007/Natours"><img align="center"  src="https://github-readme-stats.karmanya007.vercel.app/api/pin/?username=karmanya007&repo=Natours&theme=radical" /></a> <a href = "https://github.com/karmanya007/url-shortener"><img align="center" src="https://github-readme-stats.karmanya007.vercel.app/api/pin/?username=karmanya007&repo=url-shortener&theme=radical" /></a> 
+    <a href = "https://github.com/karmanya007/Natour"><img align="center"  src="https://github-readme-stats.karmanya007.vercel.app/api/pin/?username=karmanya007&repo=Natours&theme=radical" /></a> <a href = "https://github.com/karmanya007/url-shortener"><img align="center" src="https://github-readme-stats.karmanya007.vercel.app/api/pin/?username=karmanya007&repo=url-shortener&theme=radical" /></a> 
   </p>
 </details>
 
