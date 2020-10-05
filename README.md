@@ -72,7 +72,7 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/damn-dvlpr/loanApp/issues/4) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
+1. 💪 Opened PR [#6](https://github.com/damn-dvlpr/loanApp/pull/6) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
 2. 🗣 Commented on [#4](https://github.com/damn-dvlpr/loanApp/issues/4) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
 3. 🗣 Commented on [#4](https://github.com/damn-dvlpr/loanApp/issues/4) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
 4. 🗣 Commented on [#4](https://github.com/damn-dvlpr/loanApp/issues/4) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
