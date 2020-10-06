@@ -73,8 +73,8 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/damn-dvlpr/loanApp/issues/7) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
-2. 💪 Opened PR [#8](https://github.com/damn-dvlpr/loanApp/pull/8) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
-3. 🗣 Commented on [#7](https://github.com/damn-dvlpr/loanApp/issues/7) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
+2. 🗣 Commented on [#7](https://github.com/damn-dvlpr/loanApp/issues/7) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
+3. 💪 Opened PR [#8](https://github.com/damn-dvlpr/loanApp/pull/8) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
 4. 🗣 Commented on [#7](https://github.com/damn-dvlpr/loanApp/issues/7) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
 5. 🗣 Commented on [#7](https://github.com/damn-dvlpr/loanApp/issues/7) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
 <!--END_SECTION:activity-->
