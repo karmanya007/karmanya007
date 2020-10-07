@@ -72,9 +72,9 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/damn-dvlpr/loanApp/issues/7) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
-2. 🗣 Commented on [#7](https://github.com/damn-dvlpr/loanApp/issues/7) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
-3. 💪 Opened PR [#8](https://github.com/damn-dvlpr/loanApp/pull/8) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
+1. 🗣 Commented on [#2](https://github.com/BeatrizHerculano/giveaway-api/issues/2) in [BeatrizHerculano/giveaway-api](https://github.com/BeatrizHerculano/giveaway-api)
+2. 🗣 Commented on [#3](https://github.com/BeatrizHerculano/giveaway-api/issues/3) in [BeatrizHerculano/giveaway-api](https://github.com/BeatrizHerculano/giveaway-api)
+3. 🗣 Commented on [#4](https://github.com/Frankazo/JAT-BackEnd/issues/4) in [Frankazo/JAT-BackEnd](https://github.com/Frankazo/JAT-BackEnd)
 4. 🗣 Commented on [#7](https://github.com/damn-dvlpr/loanApp/issues/7) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
 5. 🗣 Commented on [#7](https://github.com/damn-dvlpr/loanApp/issues/7) in [damn-dvlpr/loanApp](https://github.com/damn-dvlpr/loanApp)
 <!--END_SECTION:activity-->
