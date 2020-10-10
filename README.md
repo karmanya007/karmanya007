@@ -72,11 +72,11 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1284](https://github.com/OperationCode/front-end/issues/1284) in [OperationCode/front-end](https://github.com/OperationCode/front-end)
-2. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
-3. 🗣 Commented on [#9](https://github.com/LoginRadius/developer-authentication-demos/issues/9) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
-4. 🗣 Commented on [#15](https://github.com/LoginRadius/node-js-sdk/issues/15) in [LoginRadius/node-js-sdk](https://github.com/LoginRadius/node-js-sdk)
-5. 🗣 Commented on [#8](https://github.com/LoginRadius/business-email-validator/issues/8) in [LoginRadius/business-email-validator](https://github.com/LoginRadius/business-email-validator)
+1. 🗣 Commented on [#4](https://github.com/ABSphreak/readme-jokes/issues/4) in [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes)
+2. 🗣 Commented on [#1284](https://github.com/OperationCode/front-end/issues/1284) in [OperationCode/front-end](https://github.com/OperationCode/front-end)
+3. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
+4. 🗣 Commented on [#9](https://github.com/LoginRadius/developer-authentication-demos/issues/9) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
+5. 🗣 Commented on [#15](https://github.com/LoginRadius/node-js-sdk/issues/15) in [LoginRadius/node-js-sdk](https://github.com/LoginRadius/node-js-sdk)
 <!--END_SECTION:activity-->
 
 </details>
