@@ -72,11 +72,11 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#944](https://github.com/appsmithorg/appsmith/issues/944) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-2. 🗣 Commented on [#1038](https://github.com/appsmithorg/appsmith/issues/1038) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-3. 🗣 Commented on [#4](https://github.com/ABSphreak/readme-jokes/issues/4) in [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes)
-4. 🗣 Commented on [#4](https://github.com/ABSphreak/readme-jokes/issues/4) in [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes)
-5. 🗣 Commented on [#9](https://github.com/FOSS-Cell-GECPKD/DevPad/issues/9) in [FOSS-Cell-GECPKD/DevPad](https://github.com/FOSS-Cell-GECPKD/DevPad)
+1. 🗣 Commented on [#15](https://github.com/LoginRadius/node-js-sdk/issues/15) in [LoginRadius/node-js-sdk](https://github.com/LoginRadius/node-js-sdk)
+2. 🗣 Commented on [#8](https://github.com/LoginRadius/business-email-validator/issues/8) in [LoginRadius/business-email-validator](https://github.com/LoginRadius/business-email-validator)
+3. 🗣 Commented on [#12](https://github.com/LoginRadius/business-email-validator/issues/12) in [LoginRadius/business-email-validator](https://github.com/LoginRadius/business-email-validator)
+4. 🗣 Commented on [#1284](https://github.com/OperationCode/front-end/issues/1284) in [OperationCode/front-end](https://github.com/OperationCode/front-end)
+5. 🗣 Commented on [#944](https://github.com/appsmithorg/appsmith/issues/944) in [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 <!--END_SECTION:activity-->
 
 </details>
