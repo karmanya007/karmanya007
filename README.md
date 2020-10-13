@@ -73,9 +73,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
-2. 💪 Opened PR [#46](https://github.com/LoginRadius/developer-authentication-demos/pull/46) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
+2. 🗣 Commented on [#10](https://github.com/lablnet/board/issues/10) in [lablnet/board](https://github.com/lablnet/board)
 3. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
-4. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
+4. 💪 Opened PR [#46](https://github.com/LoginRadius/developer-authentication-demos/pull/46) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
 5. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
 <!--END_SECTION:activity-->
 
