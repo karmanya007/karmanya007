@@ -73,7 +73,7 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
-2. 🗣 Commented on [#4](https://github.com/ABSphreak/readme-jokes/issues/4) in [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes)
+2. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
 3. 🗣 Commented on [#4](https://github.com/ABSphreak/readme-jokes/issues/4) in [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes)
 4. 🗣 Commented on [#4](https://github.com/ABSphreak/readme-jokes/issues/4) in [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes)
 5. 🗣 Commented on [#4](https://github.com/ABSphreak/readme-jokes/issues/4) in [ABSphreak/readme-jokes](https://github.com/ABSphreak/readme-jokes)
