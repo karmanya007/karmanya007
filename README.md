@@ -72,11 +72,11 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/LoginRadius/developer-authentication-demos/pull/47) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
-2. 🗣 Commented on [#9](https://github.com/LoginRadius/developer-authentication-demos/issues/9) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
-3. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
-4. 🗣 Commented on [#10](https://github.com/lablnet/board/issues/10) in [lablnet/board](https://github.com/lablnet/board)
-5. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
+1. 🗣 Commented on [#8](https://github.com/LoginRadius/business-email-validator/issues/8) in [LoginRadius/business-email-validator](https://github.com/LoginRadius/business-email-validator)
+2. 💪 Opened PR [#47](https://github.com/LoginRadius/developer-authentication-demos/pull/47) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
+3. 🗣 Commented on [#9](https://github.com/LoginRadius/developer-authentication-demos/issues/9) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
+4. 🗣 Commented on [#6](https://github.com/LoginRadius/developer-authentication-demos/issues/6) in [LoginRadius/developer-authentication-demos](https://github.com/LoginRadius/developer-authentication-demos)
+5. 🗣 Commented on [#10](https://github.com/lablnet/board/issues/10) in [lablnet/board](https://github.com/lablnet/board)
 <!--END_SECTION:activity-->
 
 </details>
