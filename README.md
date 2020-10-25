@@ -72,11 +72,11 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8078](https://github.com/openstreetmap/iD/issues/8078) in [openstreetmap/iD](https://github.com/openstreetmap/iD)
-2. 🗣 Commented on [#322](https://github.com/postmanlabs/postman-code-generators/issues/322) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
-3. 🗣 Commented on [#254](https://github.com/postmanlabs/postman-code-generators/issues/254) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
-4. 🗣 Commented on [#322](https://github.com/postmanlabs/postman-code-generators/issues/322) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
-5. 💪 Opened PR [#395](https://github.com/postmanlabs/postman-code-generators/pull/395) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
+1. 🗣 Commented on [#395](https://github.com/postmanlabs/postman-code-generators/issues/395) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
+2. 🗣 Commented on [#8078](https://github.com/openstreetmap/iD/issues/8078) in [openstreetmap/iD](https://github.com/openstreetmap/iD)
+3. 🗣 Commented on [#322](https://github.com/postmanlabs/postman-code-generators/issues/322) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
+4. 🗣 Commented on [#254](https://github.com/postmanlabs/postman-code-generators/issues/254) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
+5. 🗣 Commented on [#322](https://github.com/postmanlabs/postman-code-generators/issues/322) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
 <!--END_SECTION:activity-->
 
 </details>
