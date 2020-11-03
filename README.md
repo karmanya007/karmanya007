@@ -73,8 +73,8 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#395](https://github.com/postmanlabs/postman-code-generators/issues/395) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
-2. 🗣 Commented on [#8104](https://github.com/openstreetmap/iD/issues/8104) in [openstreetmap/iD](https://github.com/openstreetmap/iD)
-3. 🗣 Commented on [#8119](https://github.com/openstreetmap/iD/issues/8119) in [openstreetmap/iD](https://github.com/openstreetmap/iD)
+2. 🗣 Commented on [#395](https://github.com/postmanlabs/postman-code-generators/issues/395) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
+3. 🗣 Commented on [#8104](https://github.com/openstreetmap/iD/issues/8104) in [openstreetmap/iD](https://github.com/openstreetmap/iD)
 4. 🗣 Commented on [#8119](https://github.com/openstreetmap/iD/issues/8119) in [openstreetmap/iD](https://github.com/openstreetmap/iD)
 5. 🗣 Commented on [#8119](https://github.com/openstreetmap/iD/issues/8119) in [openstreetmap/iD](https://github.com/openstreetmap/iD)
 <!--END_SECTION:activity-->
