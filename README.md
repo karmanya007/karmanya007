@@ -72,11 +72,11 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/openstreetmap/id-tagging-schema/issues/35) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-2. 💪 Opened PR [#52](https://github.com/openstreetmap/id-tagging-schema/pull/52) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-3. 🗣 Commented on [#395](https://github.com/postmanlabs/postman-code-generators/issues/395) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
-4. 🗣 Commented on [#8119](https://github.com/openstreetmap/iD/issues/8119) in [openstreetmap/iD](https://github.com/openstreetmap/iD)
-5. 💪 Opened PR [#8169](https://github.com/openstreetmap/iD/pull/8169) in [openstreetmap/iD](https://github.com/openstreetmap/iD)
+1. 🗣 Commented on [#395](https://github.com/postmanlabs/postman-code-generators/issues/395) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
+2. ❌ Closed PR [#285](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/285) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 🗣 Commented on [#35](https://github.com/openstreetmap/id-tagging-schema/issues/35) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+4. 💪 Opened PR [#52](https://github.com/openstreetmap/id-tagging-schema/pull/52) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+5. 🗣 Commented on [#395](https://github.com/postmanlabs/postman-code-generators/issues/395) in [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators)
 <!--END_SECTION:activity-->
 
 </details>
