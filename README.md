@@ -85,7 +85,7 @@
   <summary>:zap: <b>Additional Stats</b></summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101173%20lines%20of%20code-blue)
 
@@ -149,7 +149,7 @@ Linux                    13 mins             ░░░░░░░░░░░�
 
 ```text
 JavaScript               10 repos            ████████████░░░░░░░░░░░░░   50.0% 
-CSS                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+CSS                      6 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
 C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
 Handlebars               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
