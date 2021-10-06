@@ -72,7 +72,7 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/karmanya007/forkify/pull/2) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
+1. 🎉 Merged PR [#13](https://github.com/karmanya007/forkify/pull/13) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
 2. 🎉 Merged PR [#1](https://github.com/karmanya007/Clever-Note/pull/1) in [karmanya007/Clever-Note](https://github.com/karmanya007/Clever-Note)
 3. 🎉 Merged PR [#3](https://github.com/karmanya007/forkify/pull/3) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
 4. 🎉 Merged PR [#4](https://github.com/karmanya007/forkify/pull/4) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
