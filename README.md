@@ -72,11 +72,11 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/karmanya007/Natours/pull/11) in [karmanya007/Natours](https://github.com/karmanya007/Natours)
-2. 🎉 Merged PR [#12](https://github.com/karmanya007/Natours/pull/12) in [karmanya007/Natours](https://github.com/karmanya007/Natours)
-3. 🎉 Merged PR [#1](https://github.com/karmanya007/Natours/pull/1) in [karmanya007/Natours](https://github.com/karmanya007/Natours)
-4. 🎉 Merged PR [#4](https://github.com/karmanya007/Natours/pull/4) in [karmanya007/Natours](https://github.com/karmanya007/Natours)
-5. 🎉 Merged PR [#5](https://github.com/karmanya007/Natours/pull/5) in [karmanya007/Natours](https://github.com/karmanya007/Natours)
+1. 🎉 Merged PR [#5](https://github.com/karmanya007/forkify/pull/5) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
+2. 🎉 Merged PR [#6](https://github.com/karmanya007/forkify/pull/6) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
+3. 🎉 Merged PR [#8](https://github.com/karmanya007/forkify/pull/8) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
+4. 🎉 Merged PR [#9](https://github.com/karmanya007/forkify/pull/9) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
+5. 🎉 Merged PR [#10](https://github.com/karmanya007/forkify/pull/10) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
 <!--END_SECTION:activity-->
 
 </details>
