@@ -72,11 +72,11 @@
   <summary>:zap: <b>Reacent Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/karmanya007/forkify/pull/13) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
-2. 🎉 Merged PR [#1](https://github.com/karmanya007/Clever-Note/pull/1) in [karmanya007/Clever-Note](https://github.com/karmanya007/Clever-Note)
-3. 🎉 Merged PR [#3](https://github.com/karmanya007/forkify/pull/3) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
-4. 🎉 Merged PR [#4](https://github.com/karmanya007/forkify/pull/4) in [karmanya007/forkify](https://github.com/karmanya007/forkify)
-5. 💪 Opened PR [#52](https://github.com/openstreetmap/id-tagging-schema/pull/52) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+1. 🎉 Merged PR [#11](https://github.com/karmanya007/Natours/pull/11) in [karmanya007/Natours](https://github.com/karmanya007/Natours)
+2. 🎉 Merged PR [#12](https://github.com/karmanya007/Natours/pull/12) in [karmanya007/Natours](https://github.com/karmanya007/Natours)
+3. 🎉 Merged PR [#1](https://github.com/karmanya007/Natours/pull/1) in [karmanya007/Natours](https://github.com/karmanya007/Natours)
+4. 🎉 Merged PR [#4](https://github.com/karmanya007/Natours/pull/4) in [karmanya007/Natours](https://github.com/karmanya007/Natours)
+5. 🎉 Merged PR [#5](https://github.com/karmanya007/Natours/pull/5) in [karmanya007/Natours](https://github.com/karmanya007/Natours)
 <!--END_SECTION:activity-->
 
 </details>
