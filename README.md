@@ -15,7 +15,7 @@
   - 🐧 Operating system
   - 🤖 AI/ML/Deep Learning
   - 🐱‍💻 Penetration Testing
-- 🔭 I’m currently working on [Story Sharing App](https://github.com/karmanya007/storySharingApp)
+- 🔭 I’m currently working on [create-my-firebase-app](https://github.com/karmanya007/create-my-firebase-app)
 - 🌱 I’m currently learning Javascript, C++ and Python
 - 💬 Ask me about anything
 - 📫 How to reach me: <karmanyasharma5@gmail.com>
