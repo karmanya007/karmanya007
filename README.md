@@ -130,17 +130,13 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 1 min          ████████████████████░░░░░   81.95% 
-JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -161,7 +157,7 @@ Handlebars               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karmanya007/karmanya007/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/03/2022 18:50:48 UTC
+ Last Updated on 03/03/2022 18:46:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
