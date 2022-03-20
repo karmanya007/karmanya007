@@ -85,7 +85,7 @@
   <summary>:zap: <b>Additional Stats</b></summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--185%20Thousand%20lines%20of%20code-blue)
 
@@ -130,13 +130,15 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      5 hrs 19 mins       ███████████████████████░░   93.08% 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 43 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
@@ -157,7 +159,7 @@ Handlebars               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karmanya007/karmanya007/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/03/2022 18:50:42 UTC
+ Last Updated on 20/03/2022 18:48:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
