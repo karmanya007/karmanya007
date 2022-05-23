@@ -132,13 +132,14 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 20 mins        ████████████████████████░   97.42% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 22 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 22 mins        █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +160,7 @@ Handlebars               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karmanya007/karmanya007/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 18:51:34 UTC
+ Last Updated on 23/05/2022 18:54:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
