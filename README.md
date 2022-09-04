@@ -85,7 +85,7 @@
   <summary>:zap: <b>Additional Stats</b></summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,45 +103,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-🌆 Daytime    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-🌃 Evening    124 commits    ██████████████████░░░░░░░   75.15% 
-🌙 Night      13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       36 commits     █████░░░░░░░░░░░░░░░░░░░░   21.82% 
-Tuesday      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Wednesday    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
-Thursday     31 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.79% 
-Friday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Saturday     25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Sunday       24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -159,7 +120,7 @@ Handlebars               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karmanya007/karmanya007/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:51:32 UTC
+ Last Updated on 04/09/2022 18:54:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
