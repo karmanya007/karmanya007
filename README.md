@@ -85,7 +85,7 @@
   <summary>:zap: <b>Additional Stats</b></summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -132,14 +132,15 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      5 hrs 53 mins       ████████████████████████░   95.6% 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.4%
+C++                      4 hrs 43 mins       ████████████████████████░   96.72% 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 🔥 Editors: 
-VS Code                  6 hrs 9 mins        █████████████████████████   100.0%
+VS Code                  4 hrs 53 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 9 mins        █████████████████████████   100.0%
+Windows                  4 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
@@ -160,7 +161,7 @@ Handlebars               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karmanya007/karmanya007/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2022 18:55:08 UTC
+ Last Updated on 18/09/2022 18:55:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
