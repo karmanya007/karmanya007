@@ -85,15 +85,15 @@
   <summary>:zap: <b>Additional Stats</b></summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--185%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 21 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 67.3 kB Used in GitHub's Storage 
  > 
@@ -132,16 +132,16 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      6 hrs 33 mins       ██████████████████████░░░   91.33% 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+C++                      7 hrs 14 mins       ███████████████████████░░   92.43% 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-VS Code                  7 hrs 11 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 49 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 11 mins       █████████████████████████   100.0%
+Windows                  7 hrs 49 mins       █████████████████████████   100.0%
 
 ```
 
@@ -162,7 +162,7 @@ Handlebars               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karmanya007/karmanya007/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2022 18:59:47 UTC
+ Last Updated on 23/09/2022 19:00:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
