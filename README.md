@@ -85,7 +85,7 @@
   <summary>:zap: <b>Additional Stats</b></summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,7 +93,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 21 Contributions in the Year 2022
  > 
 > 📦 67.3 kB Used in GitHub's Storage 
  > 
@@ -132,16 +132,16 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      7 hrs 14 mins       ███████████████████████░░   92.43% 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+C++                      7 hrs 38 mins       ███████████████████████░░   92.35% 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.55% 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-VS Code                  7 hrs 49 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 16 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 49 mins       █████████████████████████   100.0%
+Windows                  8 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
@@ -162,7 +162,7 @@ Handlebars               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karmanya007/karmanya007/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2022 19:00:02 UTC
+ Last Updated on 24/09/2022 18:55:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
