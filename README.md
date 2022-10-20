@@ -95,7 +95,7 @@
 
 > 🏆 21 Contributions in the Year 2022
  > 
-> 📦 67.4 kB Used in GitHub's Storage 
+> 📦 67.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -159,7 +159,7 @@ Handlebars               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karmanya007/karmanya007/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2022 19:13:15 UTC
+ Last Updated on 20/10/2022 19:11:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
