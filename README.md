@@ -103,45 +103,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
-🌆 Daytime    20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-🌃 Evening    99 commits     ██████████████████░░░░░░░   72.26% 
-🌙 Night      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       36 commits     ██████░░░░░░░░░░░░░░░░░░░   26.28% 
-Tuesday      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
-Wednesday    13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
-Thursday     31 commits     █████░░░░░░░░░░░░░░░░░░░░   22.63% 
-Friday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-Saturday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.33% 
-Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -159,7 +120,7 @@ Handlebars               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karmanya007/karmanya007/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 19:03:51 UTC
+ Last Updated on 09/11/2022 18:53:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
