@@ -9,7 +9,7 @@
 
 ## About me
 
-- Student , Developer and Competitive Programmer
+- ECE Grad , Developer and Competitive Programmer
 - 🤹🏽 Fields I enjoy the most :
   - 👨‍💻 Web Develpoement
   - 🐧 Operating system
